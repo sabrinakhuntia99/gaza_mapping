@@ -87,3 +87,29 @@ plt.gca().spines['bottom'].set_color('lightblue')
 plt.title('Size Comparison: Gaza vs Vietnam', color='lightblue', fontname='Times', fontsize=18)
 
 plt.show()
+
+
+# Data
+countries = ['Ukraine', 'Iraq', 'Yemen', 'Gaza']
+children_killed = [510, 3119, 3774, 5500]
+time_periods = [21 * 12 * 4, 14 * 52, 8 * 52, 7]
+
+# Calculate children killed per week
+children_per_week = [ck / tp for ck, tp in zip(children_killed, time_periods)]
+
+# Create horizontal bar chart
+fig, ax = plt.subplots()
+bars = ax.barh(countries, children_per_week, color='skyblue')
+
+# Add lollipops
+for i, bar in enumerate(bars):
+    ax.plot([children_per_week[i]], [i], marker='o', markersize=8, color='orange')
+
+# Set labels and title
+ax.set_xlabel('Children Killed Per Week')
+ax.set_ylabel('Region Under Attack')
+ax.set_title('Zionist "War" = An Unprecedented Genocide of Children')
+
+# Show the plot
+plt.tight_layout()
+plt.show()
