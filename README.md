@@ -9,20 +9,19 @@
 
 #### Hanoi: American bombs dropped on Hanoi (capital of Vietnam) from Dec 18, 1972 – Dec 29, 1972 during Operation Linebacker II aka “the Christmas bombings” aka the worst  bombing campaign during the Vietnam War 
 
-![image](https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/be4c934c-52d4-4b6a-b7b6-f2162b4bc8e8)
+[radarcharts](https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/d6d80eae-3656-45f1-9cc7-3e3dae2e8bbd)
+
 
 ## Vertical Bar Charts: Visualizing the Relative Population Densities
 
-![image](https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/48e6f56d-873e-439f-9c3e-8f1b40dc3f2c)
+[bargraphs](https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/f4899f94-e10f-43ae-96e2-31678a206fe6)
 
 ## Horizontal Bar Chart: Visualizing the Relative Numbers of Children Killed
 
 ### Data from https://www.instagram.com/p/C0HgXkfA4JH/ (originally gathered from Amnesty Intl./UN/UNICEF/Ukraine gov)
 
-![image](https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/ab713642-b268-4e43-b6f4-ef7d9b4ac555)
-
+[lollipopgraph](https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/f29f14db-da52-456d-973b-5b16342fc8c5)
 
 ## Bubble Chart: Visualizing the Relative Land Sizes
 
-![image](https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/6811bef4-df4c-4efb-985d-d67ae4201e66)
-
+[bubblechart](https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/f50c330c-96e9-4915-ba89-ef13fd913f4b)
