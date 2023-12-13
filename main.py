@@ -39,7 +39,7 @@ ax1.plot(angles, values, color='#FF5733', linewidth=2, linestyle='dashed',
 
 ax1.set_yticklabels([])
 ax1.set_xticks(angles[:-1])
-ax1.set_xticklabels(labels, fontsize=14, fontname='Times New Roman', color='red')  # Set font color to red
+ax1.set_xticklabels(labels, fontsize=14, fontname='Ubuntu', color='red')  # Set font color to red
 
 ax1.set_title('Tons Per Sq Km', color='red', fontsize=18, fontname='Times New Roman')  # Set title color to red
 
@@ -154,3 +154,43 @@ ax.grid(axis='x', linestyle='--', color='#FFC300', alpha=0.3)
 
 plt.tight_layout()
 plt.show()
+
+# Data
+locations2 = ['Jabalia Refugee Camp', 'Gaza Strip', 'Hanoi', 'London']
+tons_per_sq_km_values2 = [2105.26316, 109.58904109589, 5.95238095238095, 11.64]
+
+# Create the plot
+plt.figure(figsize=(6, 8))
+plt.stem(locations2, tons_per_sq_km_values2, markerfmt=' ', linefmt='C0-', basefmt='k-')
+plt.xlabel('Locations')
+plt.ylabel('Tons per Sq Km')
+plt.title('Tons of Bombs Dropped per Sq Km in Different Locations')
+plt.xticks(rotation=45)
+plt.tight_layout()
+
+# Show the plot
+plt.show()
+
+# Data
+areas2 = [1.9, 2100000, 28263031]  # Areas in sq km
+bubble_sizes2 = [0.0019, 2100, 28263]  # Bubble sizes for visualization
+
+# Labels for the bubbles
+labels = ['Jabalia Refugee Camp', 'Gaza', 'Vietnam']
+
+# Create the bubble chart
+plt.figure(figsize=(8, 6))
+plt.scatter(range(len(areas2)), [1] * len(areas2), s=bubble_sizes2, alpha=0.5)
+plt.xticks(range(len(areas2)), labels)
+plt.xlabel('Locations')
+plt.title('Relative Sizes of Areas')
+
+# Set scale to logarithmic for better visualization
+plt.yscale('log')
+plt.ylabel('Area (sq km)')
+plt.grid(True, which='both', linestyle='--', linewidth=0.5)
+
+# Show the bubble chart
+plt.tight_layout()
+plt.show()
+
