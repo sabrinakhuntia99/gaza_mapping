@@ -3,11 +3,11 @@
 ## Radar Charts: Visualizing the Relative Intensity of Bombings Per Sq Km and Per Day
 
 ### Specific Variable Definitions 
-#### Gaza: Israeli bombs dropped on the Gaza Strip during this ongoing genocide (up until the ceasefire)
+#### Gaza: Israeli bombs dropped on the Gaza Strip during this ongoing genocide (up until the November ceasefire)
 
-#### London: German bombs dropped on London from Sep 7, 1940 - May 11, 1941 during the Blitz, a term which originates from the word Blitzkrieg (German: “lightning war”)
+#### London: German bombs dropped on London from Sep 7, 1940 - May 11, 1941 during the Blitz, a term which originates from the word Blitzkrieg (German: “lightning war”), of World War 2
 
-#### Hanoi: American bombs dropped on Hanoi (capital of Vietnam) from Dec 18, 1972 – Dec 29, 1972 during Operation Linebacker II aka “the Christmas bombings” aka the worst  bombing campaign during the Vietnam War 
+#### Hanoi: American bombs dropped on Hanoi (capital of Vietnam) from Dec 18, 1972 – Dec 29, 1972 during Operation Linebacker II aka “the Christmas bombings” aka the worst  bombing campaign of the Vietnam War 
 
 <img alt="radarcharts" src="https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/d6d80eae-3656-45f1-9cc7-3e3dae2e8bbd">
 
