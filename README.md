@@ -1,4 +1,4 @@
-# GRAPH GUIDE
+# GRAPH GUIDE (GAZA STRIP)
 
 ## Radar Charts: Visualizing the Relative Intensity of Bombings Per Sq Km and Per Day
 
@@ -11,11 +11,11 @@
 
 <img alt="radarcharts" src="https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/d6d80eae-3656-45f1-9cc7-3e3dae2e8bbd">
 
-## Vertical Bar Charts: Visualizing the Relative Population Densities
+## Vertical Bar Graphs: Visualizing the Relative Population Densities
 
 <img alt="bargraphs" src="https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/f4899f94-e10f-43ae-96e2-31678a206fe6">
 
-## Horizontal Bar Chart: Visualizing the Relative Numbers of Children Killed
+## Horizontal Bar Graph: Visualizing the Relative Numbers of Children Killed
 
 ### Data from https://www.instagram.com/p/C0HgXkfA4JH/ (originally gathered from Amnesty Intl./UN/UNICEF/Ukraine gov)
 
@@ -23,3 +23,11 @@
 
 ## Bubble Chart: Visualizing the Relative Land Sizes
 <img width="798" alt="bubblechart" src="https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/851c6cec-c3f5-46c1-90fb-695012c1043d">
+
+# GRAPH GUIDE (JABALIA)
+
+## Vertical Bar Graph: Visualizing the Relative Intensity of Bombings Per Sq Km 
+<img alt="bargraph" src="https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/9db48b4b-fc67-463c-ab56-0ccd5f3560b2">
+
+## Bubble Chart: Visualizing the Relative Land Sizes (Logarithmic Scale)
+<img alt="bubblechart2" src="https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/4a84255f-2409-4d1b-afef-b871a36b99ff">
