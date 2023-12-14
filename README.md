@@ -27,6 +27,9 @@
 # GRAPH GUIDE (JABALIA)
 
 ## Vertical Bar Graph: Visualizing the Relative Intensity of Bombings Per Sq Km 
+
+### Data from New York Times article (https://www.nytimes.com/2023/11/03/world/middleeast/israel-bomb-jabaliya.html)
+"Israel used at least two 2,000-pound bombs during an airstrike on Tuesday on Jabaliya, a dense area just north of Gaza City, according to experts and an analysis conducted by The New York Times of satellite images, photos and videos."
 <img width="797" alt="Jabalia1" src="https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/d86574f0-a341-4894-8503-672a894e2dce">
 
 ## Bubble Chart: Visualizing the Relative Land Sizes (Logarithmic Scale)
