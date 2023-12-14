@@ -194,3 +194,34 @@ plt.grid(True, which='both', linestyle='--', linewidth=0.5)
 plt.tight_layout()
 plt.show()
 
+
+# Data
+events = ["Siege of Aleppo", "Siege of Gaza"]
+total_structures_damaged = [35722, 40000]
+duration_in_months = [36, 3]  # Duration of each event in months
+
+# Setting the style for the plot
+plt.style.use('dark_background')
+
+# Plotting the bar graphs side by side
+plt.figure(figsize=(12, 6))
+
+# Bar graph for total number of structures damaged/destroyed
+plt.subplot(1, 2, 1)
+plt.bar(events, total_structures_damaged, color='red')
+plt.title('Total Structures Damaged/Destroyed', color='white', fontname='Times New Roman')
+plt.ylabel('Number of Structures', color='white', fontname='Times New Roman')
+plt.xticks(color='white', fontname='Times New Roman')
+plt.yticks(color='white', fontname='Times New Roman')
+
+# Bar graph for number of structures damaged/destroyed per month
+plt.subplot(1, 2, 2)
+structures_per_month = [total / duration for total, duration in zip(total_structures_damaged, duration_in_months)]
+plt.bar(events, structures_per_month, color='red')
+plt.title('Structures Damaged/Destroyed Per Month', color='white', fontname='Times New Roman')
+plt.ylabel('Number of Structures per Month', color='white', fontname='Times New Roman')
+plt.xticks(color='white', fontname='Times New Roman')
+plt.yticks(color='white', fontname='Times New Roman')
+
+plt.tight_layout()
+plt.show()
