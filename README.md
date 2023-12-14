@@ -27,7 +27,11 @@
 # GRAPH GUIDE (JABALIA)
 
 ## Vertical Bar Graph: Visualizing the Relative Intensity of Bombings Per Sq Km 
-<img alt="bargraph" src="https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/9db48b4b-fc67-463c-ab56-0ccd5f3560b2">
+<img width="797" alt="Jabalia1" src="https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/d86574f0-a341-4894-8503-672a894e2dce">
 
 ## Bubble Chart: Visualizing the Relative Land Sizes (Logarithmic Scale)
-<img alt="bubblechart2" src="https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/4a84255f-2409-4d1b-afef-b871a36b99ff">
+A logarithmic scale is useful in cases where the data spans several orders of magnitude, making it easier to visualize a wide range of values. In the context of the bubble chart, the areas represented by the bubbles might have vast differences in magnitude (for example, one area being 1.9 sq km, another being 2.1 million sq km, and another being 28.26 million sq km). When such large differences exist, plotting them directly on a linear scale can lead to less clarity in visualization. By using a logarithmic scale on the y-axis, the data points are spaced in proportion to their logarithms rather than their actual values. This allows for a more even distribution of data points across the axis, making it easier to distinguish and interpret differences in magnitude.
+
+However, despite this, Jabalia Refugee camp is still invisible compared to the rest!
+
+<img width="784" alt="Jabalia2" src="https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/187c1ff7-a661-4e7d-87e2-fdce976483df">
