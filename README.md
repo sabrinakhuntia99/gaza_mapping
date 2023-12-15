@@ -27,7 +27,7 @@
 
 ## Visualizing the Number of Structures Damaged and/or Destroyed Per Month 
 ### Data from Washington Post article (https://www.washingtonpost.com/graphics/world/destruction-of-aleppo/) and Reuters article (https://www.reuters.com/world/middle-east/nearly-fifth-gazas-buildings-destroyed-or-damaged-un-estimate-2023-12-12/), originally gathered from the UN
-<img alt="bargraphs2" src="https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/30b6ff3b-eb6c-4b84-b863-a9c62241d33f">
+<img alt="bargraphs2" src="https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/8c85a446-debf-48ab-80e9-75b92871d8ad">
 
 # GRAPH GUIDE (JABALIA)
 
