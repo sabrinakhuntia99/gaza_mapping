@@ -25,16 +25,17 @@
 <img width="798" alt="bubblechart" src="https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/851c6cec-c3f5-46c1-90fb-695012c1043d">
 
 
-## Visualizing the Number of Structures Damaged and/or Destroyed Per Month 
+## Vertical Bar Graphs: Visualizing the Number of Structures Damaged and/or Destroyed Per Month 
 ### Data from Washington Post article (https://www.washingtonpost.com/graphics/world/destruction-of-aleppo/) and Reuters article (https://www.reuters.com/world/middle-east/nearly-fifth-gazas-buildings-destroyed-or-damaged-un-estimate-2023-12-12/), originally gathered from the UN
 <img alt="bargraphs2" src="https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/8c85a446-debf-48ab-80e9-75b92871d8ad">
 
 # GRAPH GUIDE (JABALIA)
-
-## Vertical Bar Graph: Visualizing the Relative Intensity of Bombings Per Sq Km 
-
 ### Data from New York Times article (https://www.nytimes.com/2023/11/03/world/middleeast/israel-bomb-jabaliya.html)
 "Israel used at least two 2,000-pound bombs during an airstrike on Tuesday on Jabaliya, a dense area just north of Gaza City, according to experts and an analysis conducted by The New York Times of satellite images, photos and videos."
+
+## Vertical Bar Graph: Visualizing the Relative Population Densities
+<img width="817" alt="Screenshot 2023-12-15 at 8 16 16 PM" src="https://github.com/sabrinakhuntia99/gaza_mapping/assets/96092401/ca35df82-4920-44f2-bb79-f3b9a8a7b3bd">
+
 
 ## Bubble Chart: Visualizing the Relative Land Sizes (Logarithmic Scale)
 A logarithmic scale is useful in cases where the data spans several orders of magnitude, making it easier to visualize a wide range of values. In the context of the bubble chart, the areas represented by the bubbles might have vast differences in magnitude (for example, one area being 1.9 sq km, another being 2.1 million sq km, and another being 28.26 million sq km). When such large differences exist, plotting them directly on a linear scale can lead to less clarity in visualization. By using a logarithmic scale on the y-axis, the data points are spaced in proportion to their logarithms rather than their actual values. This allows for a more even distribution of data points across the axis, making it easier to distinguish and interpret differences in magnitude.
